@@ -9,6 +9,7 @@ import 'muse-ui/dist/muse-ui.css'
 import VueAwesomeSwiper from 'vue-awesome-swiper'
 import 'swiper/dist/css/swiper.css'
 
+
 Vue.use(MuseUI)
 Vue.use(VueAwesomeSwiper)
 
